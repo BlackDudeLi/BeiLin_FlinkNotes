@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" multifile-model="true">
+    <data-source source="LOCAL" name="数据中台_离线数仓" uuid="e2e17754-e20d-4155-986d-10148f121b08">
+      <driver-ref>hive</driver-ref>
+      <synchronize>true</synchronize>
+      <remarks>数据中台_离线数仓</remarks>
+      <jdbc-driver>org.apache.hive.jdbc.HiveDriver</jdbc-driver>
+      <jdbc-url>jdbc:hive2://10.10.11.8:7001</jdbc-url>
+    </data-source>
+  </component>
+</project>
